@@ -1,4 +1,0 @@
-#CodeBot-Problems
-
-These are the problems for CodeBot, a similar project to [Project Euler](http://projecteuler.net). You are welcome to fork this repository and add some new problems. Instructions will be added soon
-
