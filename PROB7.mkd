@@ -1,0 +1,21 @@
+points: 5
+level: Medium
+title: Problem 7
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: e043d3b98a12e4af1819c18c326e7935a3a5b583
+
+
+###Definitions
+Define $f(x)$ as the sum of the factorials of the digits of x. For example, $$f(342) = 3! + 4! + 2! = 32$$
+
+Define $sf(x)$ as the sum of the digits of $f(x)$. So $$sf(342) = 3 + 2 = 5$$
+
+Define $g(i)$ to be the smallest positive integer $n$ such that $sf(n) = i$. Though $sf(342)$ is `5`, $sf(25)$ is also `5`, and it can be verified that $g(5)$ is `25`  
+
+Define $sg(i)$ as the sum of the digits of $g(i)$. So $$sg(5) = 2 + 5 = 7$$
+
+
+Further, it can be verified that $g(10)$ is 16 and sum of all $sg(i)$ for $1 \le i \le 10$ is 46  
+
+###Question
+What is sum of all $sg(i)$ for  $31 \le i \le 45$ ?

@@ -1,0 +1,11 @@
+points: 5
+level: Medium
+title: Summing a Binary Tree
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: cd13c3086135383519fea65b0c4dc3dd071649b3
+
+A binary tree has nodes with exactly 2 children for every node, 1 left and 1 right. Consider such a binary tree with `2097151` nodes with tree arranged such that 1st element is the root 2nd its left element ,3rd its right,4th is the left of 2nd and so on. 
+
+Values of each node matches with its positional value(for example value of 1st node is 1,2nd node is 2,3rd node is 3 and so on). Now any element can be related with the root as a series of "left" and "right" edges of the elements connected. For eg. 13th element is the right of left of right of the root. Consider $699055^{th}$ element. 
+
+Let the number of "right" edges required to reach at this element from root be N, then what is the sum of the values of all elements of the tree which require N number of right edges?

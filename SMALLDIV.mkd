@@ -1,0 +1,7 @@
+points: 5
+level: Easy
+title: Smallest Number with 300 divisors.
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: b695d5437c113620c2c8a98e785a2417b67e5f15
+
+What is the smallest numbers to have over 300 divisors.

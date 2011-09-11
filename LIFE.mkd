@@ -2,6 +2,6 @@ points: 3
 level: Very Easy
 title: The answer to life.
 author: Abhay Rana <nemo@sdslabs.co.in>
-answer: b9dbb542df63146caa6bd4fe1d4f57d808134f7a
+answer: b184f2d3e13b005628fae2b662f393ea9880dc38
 
 Submit the answer to life, universe, and everything. If you are stuck, google is your friend.

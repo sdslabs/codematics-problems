@@ -1,7 +1,0 @@
-points: 5
-level: Easy
-title: Calculate sum of fibonacci numbers
-author: Abhay Rana <nemo@sdslabs.co.in>
-answer: 48fa6016288c519688aeabef805e4834aac5aeae
-
-Give us the sum of first 1564 fibonacci numbers.

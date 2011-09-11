@@ -1,0 +1,17 @@
+points: 10
+level: Medium
+title: Listing primes
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: 3ef45d62606217ff09432b35d41b3c92788dad50
+
+Let,  
+1st prime = 2  
+2nd prime = 3   
+3rd prime = 5   
+...xth prime = y
+
+Find number of pairs (x, y) below 1000000 such that
+
+1. $x,y \in \mathbb{P}$, where P is the set of Prime numbers.
+2. $\sum_{digits} x = \sum_{digits} y 
+

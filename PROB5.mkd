@@ -1,0 +1,23 @@
+points: 10
+level: Medium
+title: Problem 5
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: 161bc277c6df78ba8e05623fbece8a9728e08759
+
+Consider the following fractions :
+
+- $1/4=0.25$
+- $1/3=0.\overline{3}$
+- $1/7=0.\overline{142857}$
+- $1/11=0.\overline{09}$
+- $1/17=0.\overline{0588235294117647}$
+
+We notice that : 
+
+- $1/4$ has a **0** digit recurring cycle 
+- $1/3$ has a **1** digit recurring cycle 
+- $1/7$ has a **6** digit recurring cycle 
+- $1/11$ has a **2** digit recurring cycle 
+- $1/17$ has a **16**  digit recurring cycle. 
+
+Find the sum of all numbers N below 1000, for which 1 / N contains a recurring cycle of more than 25 digits.

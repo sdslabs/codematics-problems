@@ -1,0 +1,13 @@
+points: 10
+level: Medium
+title: Problem 2
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: f24149bc2b2fc060802833ec9d410f8ef1397176
+
+There are N and M number of huge circles and lines respectively at your avail. You have to place the circles resting one on top of the other in a single vertical pile such that any two circles seem to be intersecting at exactly 2 places and no more than two circles seem to be intersecting at a particular point when viewed from top of the pile.Similarly, you have to place the 'M' straight lines one on top of the other in a separate pile such that none is parallel to any other and no 3 or more straight lines seem to be intersecting at a common point when viewed from top of the pile.
+
+Both lines and circles must be placed horizontly in their respective piles. Now, let 'N' number of such circles form 'P' number of bounded (bounded by circles) regions when viewed from  the top and 'M' number of such lines divide the plane into 'Q' number of regions, when viewed from the top. Assume imbalancing does not occur. For example, in the figure below (top view), M=4 and N=4 , hence P =13 and Q=11. 
+
+Now, for  M = 345 and N = 234, Find P+Q .
+
+![Problem 2 Illustration](PROB2.jpg)

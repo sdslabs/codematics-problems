@@ -1,0 +1,22 @@
+points: 15
+level: Medium
+title: Problem 11
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: 6046e73cf774dda7b4317dc37ed6e6645ebdb939
+
+Consider a series $S(n) = $
+
+- $S(n+1) = S(n)/2 $ if S(n) is divisible by 4
+- $S(n+1) = 3 \cdot S(n)$ if S(n)%4 = 1$
+- $S(n+1) = S(n)-25$ if S(n)%4=2$
+- $S(n+1) = S(n)+4$ otherwise$
+
+The series is considered to terminate when $S(n)\in {0,1}$
+
+E.g. consider that we initialize $S(0) = 40$
+This relation will generate
+$40, 20, 10, -15, -11, -7, -3, 1$
+Here number of steps = 7
+Let the number below 100,000 which produces maximum terms of the terminating series be $N$ and the number of steps = $T$
+
+Find $N \cdot T$

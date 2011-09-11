@@ -1,0 +1,9 @@
+points: 5
+level: Very Easy
+title: Problem 3
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: d29f793973741ab730a68926b4e194261455af9d
+
+Find the sum of digits of all the numbers whose digits are all in ascending order from left to right. 
+
+All these numbers lie between 500 to 1000 and satisfy M divides $(M-1)! + 1$ , where M is any natural number. 

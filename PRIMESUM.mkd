@@ -1,0 +1,7 @@
+points: 5
+level: Easy
+title: Prime (Digit) Sum
+author: Abhay Rana <nemo@sdslabs.co.in>
+answer: 253585f75044050ab531cb42401929cdc85a7bcc
+
+Find the sum of digits of all prime numbers below 856789012
