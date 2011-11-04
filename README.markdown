@@ -1,14 +1,14 @@
-#CodeBot-Problems
+#Codematics-Problems
 
-These are the problems for CodeBot, a similar project to [Project Euler](http://projecteuler.net). You are welcome to fork this repository and add some new problems. Instructions will be added soon
+These are the problems for Codematics, a similar project to [Project Euler](http://projecteuler.net). You are welcome to fork this repository and add some new problems. Instructions will be added soon
 
-The hash is added in the form of twice sha1 sum of the original answer. For eg. if the answer is 1, the hash would have to be `sha1sum(md5(1))`. You can easily get the hash for any value by using the `hash` command in the CodeBot application.
+The hash is added in the form of twice sha1 sum of the original answer. For eg. if the answer is 1, the hash would have to be `sha1sum(md5(1))`. You can easily get the hash for any value by using the `hash` command in the Codematics application.
 
 If you'd like to include LaTex in your code, surround it by $$ like `$$\lim\x+\$$` to create a single line equation or $\sin{x} =0.1$ to create an inline equation
 
 All problems are licenced under MIT Licence 2010. The copyright to the problem remains with the original commiter of the problem. You may be contacted to provide a working copy of the code used to get the answer.
 
-[CodeBot](https://sdslabs.co.in/codebot) is designed and developed by [Team SDSLabs](https://github.com/sdslabs), [IIT Roorkee](http://www.iitr.ernet.in)
+[Codematics](https://sdslabs.co.in/codematics) is designed and developed by [Team SDSLabs](https://github.com/sdslabs), [IIT Roorkee](http://www.iitr.ernet.in)
 
 ##Submitting Problems
 
