@@ -10,4 +10,4 @@ Both lines and circles must be placed horizontly in their respective piles. Now,
 
 Now, for  M = 345 and N = 234, Find P+Q .
 
-![Problem 2 Illustration](/problems/images/PROB2.jpg)
+![Problem 2 Illustration](/images/problems/PROB2.jpg)
